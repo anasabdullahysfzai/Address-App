@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--For all properties see: http://developer.android.com/guide/topics/resources/menu-resource.html-->
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+  
+  <item android:id="@+id/list"
+        android:text="List"
+        android:icon="@drawable/list"
+        />
+  <item android:id="@+id/map"
+        android:text="Map"
+        android:icon="@drawable/map"
+        />
+
+</menu>
